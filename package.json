@@ -10,6 +10,6 @@
   "author": "Samuel Aldis",
   "license": "MIT",
   "dependencies": {
-    "@wasmer/wasm-terminal": "^0.2.3"
+    "@wasmer/wasm-terminal": "^0.12.0"
   }
 }
