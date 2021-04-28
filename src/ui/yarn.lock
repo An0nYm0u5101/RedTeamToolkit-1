@@ -7256,10 +7256,10 @@ vuetify@^2.1.2:
   resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.1.2.tgz#187e12758a97679c9ee49a3fe1875f72357903b3"
   integrity sha512-cRCemRFQUWS14I3wONDp08zHeMDSNAa0bjqG9X9+SHAOoCinMxENnOKuct74YKvFyaLPyp8nyH5ELmx5FlPJDw==
 
-vuex@^3.0.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.1.1.tgz#0c264bfe30cdbccf96ab9db3177d211828a5910e"
-  integrity sha512-ER5moSbLZuNSMBFnEBVGhQ1uCBNJslH9W/Dw2W7GZN23UQA69uapP5GTT9Vm8Trc0PzBSVt6LzF3hGjmv41xcg==
+vuex@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.6.2.tgz#236bc086a870c3ae79946f107f16de59d5895e71"
+  integrity sha512-ETW44IqCgBpVomy520DT5jf8n0zoCac+sxWnn+hMe/CzaSejb/eVw2YToiXYX+Ex/AuHHia28vWTq4goAexFbw==
 
 watchpack@^1.6.0:
   version "1.6.0"
